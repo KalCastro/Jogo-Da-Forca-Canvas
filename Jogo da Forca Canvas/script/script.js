@@ -1,8 +1,15 @@
-var palavras = ['AMOGUS', 'HADES', 'BLOODBORNE', 'BATATA', 'SUS', 'CASTRO LINDO'];
-var quantiErros = 0;
+var palavras = ['AMOGUS', 'HADES', 'BLOODBORNE', 'BATATA', 'SUS', 
+    'LINDO','ALINE','NIVIA','ALMOFADA','TARTARUGA',
+    'TORNEIRA','URBANO','LAJOTA','BARRO','TERRA',
+    'PLANTA','OTORRINOLARINCOLOGISTA','PARALELEPIPEDO','PARANOIA','LEALDADE',
+    'DRENAR','SALVAR','SOLTAR','DEVOLVER','XICARA',
+    'CHUVA','GALHOS','QUEIJO','HUMILHAÇAO','CASA',
+    'PROBLEMA','JATO','PROFESSOR','GANHADOR'
+];
+var quantiErros = 0;  
 var acertos = 0;
 var tentativas = "";
-var palavraSecreta = palavras[Math.floor(Math.random() * 6)];
+var palavraSecreta = palavras[Math.floor(Math.random() * 35)];
 
 const canvas = document.getElementById("forca");
 const ctx = canvas.getContext("2d");

@@ -6,7 +6,7 @@ var palavras = ['AMOGUS', 'HADES', 'BLOODBORNE', 'BATATA', 'SUS',
 var quantiErros = 0;  
 var acertos = 0;
 var tentativas = "";
-var palavraSecreta = palavras[Math.floor(Math.random() * 25)];
+var palavraSecreta = palavras[Math.floor(Math.random() * 20)];
 
 const canvas = document.getElementById("forca");
 const ctx = canvas.getContext("2d");

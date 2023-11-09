@@ -12,7 +12,11 @@ Este é um jogo da forca feito em HTML, CSS e JavaScript. O objetivo é adivinha
 - O jogo mostra uma mensagem de vitória ou derrota na tela.
 
 ## Demonstração
-https://github.com/KalCastro/Jogo-Da-Forca-Canvas/assets/129300311/e466e0ef-c9da-4110-871b-a63ecaa15766
+
+
+https://github.com/KalCastro/Jogo-Da-Forca-Canvas/assets/129300311/e23bdda7-dfac-4085-b21d-dee0b8920fce
+
+
 
 ## Colaboradores
 

@@ -5,10 +5,15 @@ Este é um jogo da forca feito em HTML, CSS e JavaScript. O objetivo é adivinha
 ## Funcionalidades
 
 - O jogo escolhe uma palavra aleatória de uma lista de palavras pré-definidas.
+- 
 - O jogador pode digitar qualquer letra do teclado para tentar acertar a palavra.
+- 
 - O jogo mostra as letras acertadas e as tentativas erradas na tela.
+- 
 - O jogo desenha o boneco conforme o número de erros.
+- 
 - O jogo termina quando o jogador acerta a palavra ou quando o boneco é enforcado.
+- 
 - O jogo mostra uma mensagem de vitória ou derrota na tela.
 
 ## Demonstração

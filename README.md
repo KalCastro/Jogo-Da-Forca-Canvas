@@ -89,6 +89,39 @@ Esta seção contém o conteúdo principal da página. Inclui um título `<h2>` 
 Esta seção vincula um arquivo JavaScript externo chamado "script.js". Este arquivo contém a lógica do jogo.
 
 ## Script Forca(script.js)
+## Descrição
+
+O código inclui funções para desenhar o boneco da forca e verificar as tentativas do usuário.
+
+### Variáveis
+
+- `palavras`: Uma lista de palavras que podem ser escolhidas para o jogo.
+
+- `quantiErros`: Contador de erros do usuário.
+
+- `acertos`: Contador de acertos do usuário.
+
+- `tentativas`: String que armazena as tentativas do usuário.
+
+- `palavraSecreta`: A palavra que o usuário deve adivinhar, escolhida aleatoriamente da lista de palavras.
+
+### Funções
+
+- `teclaPressionada()`: Esta função é chamada sempre que uma tecla é pressionada. Ela verifica se a tecla pressionada está na palavra secreta e atualiza os contadores de acertos e erros.
+
+- `adiTentativa()`: Adiciona a tecla pressionada à string de tentativas.
+
+- `verificaFimJogo()`: Verifica se o jogo terminou, seja porque o usuário adivinhou a palavra ou porque o número máximo de erros foi atingido.
+
+- `dePoste()`, `deBarraSuperior()`, `deApoio()`, `deTracos()`: Estas funções desenham a forca.
+
+- `deBoneco(quantiErros)`: Desenha o boneco da forca, adicionando partes do corpo com base no número de erros.
+
+- `deCabeca()`, `deTronco()`, `deBracoEs()`, `deBracoDi()`, `dePernaEs()`, `dePernaDi()`: Estas funções desenham as partes do corpo do boneco da forca.
+
+## Como jogar
+O usuário deve pressionar as teclas correspondentes às letras que acredita estarem na palavra secreta. Se a letra estiver na palavra, ela será revelada. Se não estiver, uma parte do corpo será adicionada ao boneco da forca. O jogo termina quando o usuário adivinha a palavra ou quando o boneco da forca está completo.
+
 
 
 

@@ -127,6 +127,8 @@ O código inclui funções para desenhar o boneco da forca e verificar as tentat
 ## Como jogar
 O usuário deve pressionar as teclas correspondentes às letras que acredita estarem na palavra secreta. Se a letra estiver na palavra, ela será revelada. Se não estiver, uma parte do corpo será adicionada ao boneco da forca. O jogo termina quando o usuário adivinha a palavra ou quando o boneco da forca está completo.
 
+## Diagramas
+
 
 
 

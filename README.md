@@ -129,6 +129,15 @@ O usuário deve pressionar as teclas correspondentes às letras que acredita est
 
 ## Diagramas
 
+### Diagrama Casos de Uso
 
+![Diagrama Casos de Uso drawio](https://github.com/KalCastro/Jogo-Da-Forca-Canvas/assets/127865406/5e1e676c-54d3-4585-bb51-8d40f898147f)
 
+### Diagrama de Atividade
+
+![Diagrama de Atividade drawio](https://github.com/KalCastro/Jogo-Da-Forca-Canvas/assets/127865406/e42cd02f-bd2d-4b15-904f-3789c2211e11)
+
+### Diagrama de Classe
+
+![Diagrama de Classe drawio](https://github.com/KalCastro/Jogo-Da-Forca-Canvas/assets/127865406/e0ea3fb1-b209-4b3d-9f43-2e35732dcb9b)
 
